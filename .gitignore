@@ -95,4 +95,6 @@ ENV/
 *.cpp
 *.c
 *.h
+*.bat
 data/
+project/
