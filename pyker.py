@@ -1,7 +1,3 @@
-#
-# Loop files over a directory and create include file   
-#
-
 import os
 import sys
 import re
